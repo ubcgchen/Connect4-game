@@ -1,2 +1,2 @@
 # Connect4-game
-Computer Science game project
+AP Computer Science A final project. A 2-player Connect 4 game with save and load features available
